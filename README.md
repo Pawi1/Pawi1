@@ -5,4 +5,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawi1&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
 
-![](https://visitcount.itsvg.in/api?id=Pawi1&icon=0&color=4)
+[![](https://visitcount.itsvg.in/api?id=Pawi1&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
